@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="630ca2eb-a2a8-4e56-9eb2-2a4a9c0d870a" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1bpoG9AlALoamlTjIk9lru2x1WG" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="Errors" />
+  </component>
+  <component name="RunManager" selected="Application.MoreMethodOfClassJavaReflectionAPI">
+    <configuration name="CallingPrivateMethodUsingReflectionAPI" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.sammidev.CallingPrivateMethodUsingReflectionAPI" />
+      <module name="TrickJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.sammidev.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DifferentWaysOfInstatiatingObject" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.sammidev.DifferentWaysOfInstatiatingObject" />
+      <module name="TrickJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.sammidev.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LabeledBreakStatement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.sammidev.LabeledBreakStatement" />
+      <module name="TrickJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.sammidev.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MoreMethodOfClassJavaReflectionAPI" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.sammidev.MoreMethodOfClassJavaReflectionAPI" />
+      <module name="TrickJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.sammidev.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SystemInRead" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.sammidev.SystemInRead" />
+      <module name="TrickJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.sammidev.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.MoreMethodOfClassJavaReflectionAPI" />
+        <item itemvalue="Application.CallingPrivateMethodUsingReflectionAPI" />
+        <item itemvalue="Application.DifferentWaysOfInstatiatingObject" />
+        <item itemvalue="Application.LabeledBreakStatement" />
+        <item itemvalue="Application.SystemInRead" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="630ca2eb-a2a8-4e56-9eb2-2a4a9c0d870a" name="Default Changelist" comment="" />
+      <created>1589338297638</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1589338297638</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="141" y="19" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1589339425059">
+      <screen x="0" y="0" width="1366" height="722" />
+    </state>
+    <state x="141" y="19" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.722@0.0.1366.722" timestamp="1589339425059" />
+    <state x="462" y="119" width="426" height="484" key="FileChooserDialogImpl" timestamp="1589339757592">
+      <screen x="0" y="0" width="1366" height="722" />
+    </state>
+    <state x="462" y="119" width="426" height="484" key="FileChooserDialogImpl/0.0.1366.722@0.0.1366.722" timestamp="1589339757592" />
+    <state width="1322" height="202" key="GridCell.Tab.0.bottom" timestamp="1589343309154">
+      <screen x="0" y="0" width="1366" height="722" />
+    </state>
+    <state width="1322" height="202" key="GridCell.Tab.0.bottom/0.0.1366.722@0.0.1366.722" timestamp="1589343309154" />
+    <state width="1322" height="202" key="GridCell.Tab.0.center" timestamp="1589343309154">
+      <screen x="0" y="0" width="1366" height="722" />
+    </state>
+    <state width="1322" height="202" key="GridCell.Tab.0.center/0.0.1366.722@0.0.1366.722" timestamp="1589343309154" />
+    <state width="1322" height="202" key="GridCell.Tab.0.left" timestamp="1589343309153">
+      <screen x="0" y="0" width="1366" height="722" />
+    </state>
+    <state width="1322" height="202" key="GridCell.Tab.0.left/0.0.1366.722@0.0.1366.722" timestamp="1589343309153" />
+    <state width="1322" height="202" key="GridCell.Tab.0.right" timestamp="1589343309154">
+      <screen x="0" y="0" width="1366" height="722" />
+    </state>
+    <state width="1322" height="202" key="GridCell.Tab.0.right/0.0.1366.722@0.0.1366.722" timestamp="1589343309154" />
+    <state x="166" y="0" width="1026" height="722" key="SettingsEditor" timestamp="1589339762431">
+      <screen x="0" y="0" width="1366" height="722" />
+    </state>
+    <state x="166" y="0" width="1026" height="722" key="SettingsEditor/0.0.1366.722@0.0.1366.722" timestamp="1589339762431" />
+    <state x="393" y="258" width="572" height="207" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1589342739636">
+      <screen x="0" y="0" width="1366" height="722" />
+    </state>
+    <state x="393" y="258" width="572" height="207" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1366.722@0.0.1366.722" timestamp="1589342739636" />
+  </component>
+</project>
